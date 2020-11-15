@@ -1,0 +1,24 @@
+{
+  "name": "calculator",
+  "version": "1.0.0",
+  "description": "Vanilla JS iphone-like calculator",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pawelpikus/calculator.git"
+  },
+  "author": "Paweł Pikus",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pawelpikus/calculator/issues"
+  },
+  "homepage": "https://github.com/pawelpikus/calculator#readme",
+  "devDependencies": {
+    "eslint": "^7.13.0",
+    "eslint-config-airbnb-base": "^14.2.1",
+    "eslint-plugin-import": "^2.22.1"
+  }
+}
